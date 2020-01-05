@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "babel-preset-stage-3": "^6.24.1",
+    "fabric": "^3.6.0",
     "rollup-plugin-buble": "^0.18.0",
     "rollup-plugin-commonjs": "^8.3.0",
     "rollup-plugin-node-resolve": "^3.0.2",
